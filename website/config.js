@@ -1,6 +1,6 @@
-var api = "http://poolhost.com:1117";
+var api = "http://104.36.19.140:8117";
 
-var poolHost = "poolhost.com";
+var poolHost = "pool.echo-currency.com";
 
 var irc = "irc.freenode.net/#poolhost";
 
